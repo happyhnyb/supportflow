@@ -1,0 +1,9 @@
+[
+  {"article_id":"KB-101","intent":"delivery_delay","title":"Late delivery and tracking policy","content":"Check carrier tracking, the promised date, and delivery exceptions. Offer a replacement or refund only when the late-delivery policy permits it."},
+  {"article_id":"KB-102","intent":"delivery_delay","title":"Missing parcel investigation","content":"Confirm the address and tracking history, then open a carrier investigation when a parcel is marked delivered but is missing."},
+  {"article_id":"KB-201","intent":"refund_request","title":"Returns and refund eligibility","content":"Verify the return window, item condition and original payment method before approving a refund or escalation."},
+  {"article_id":"KB-301","intent":"damaged_item","title":"Damaged item replacement procedure","content":"Apologise, record the item and damage type, request minimum necessary evidence, then arrange replacement or refund under policy."},
+  {"article_id":"KB-401","intent":"payment_problem","title":"Payment failure and duplicate charge guide","content":"Check payment authorisation and order status. Never ask customers to send full card numbers or bank credentials."},
+  {"article_id":"KB-501","intent":"account_access","title":"Account access and password reset","content":"Use the approved verification flow before account changes. Send a password-reset link and escalate locked accounts when necessary."},
+  {"article_id":"KB-601","intent":"order_change","title":"Cancelling or changing an order","content":"Check fulfilment status before cancellation or address changes. Changes are not available after dispatch."}
+]

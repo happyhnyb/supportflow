@@ -1,0 +1,14 @@
+.venv/
+.env
+.env.*
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.egg-info/
+models/*.joblib
+!models/.gitkeep
+artifacts/
+tmp/
+release/
+.DS_Store
+.vercel

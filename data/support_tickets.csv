@@ -1,0 +1,601 @@
+ticket_id,message,intent,source_intent,source_row
+BTX-0001,i purchased an item but i chose a wrong omdel is it possible to modify my fucking order,order_change,change_order,5686
+BTX-0002,I got  to update my online order before you send it,order_change,change_order,5693
+BTX-0003,help me change my fucking order before you send it,order_change,change_order,5702
+BTX-0004,i purchased a fucking product but i chose a wrong color how to modify my fucking online order,order_change,change_order,5707
+BTX-0005,I need help to change my fucking online order before you send it,order_change,change_order,5722
+BTX-0006,"I bought a product but I chose a wrong color,I would like to modify my fucking online order",order_change,change_order,5726
+BTX-0007,"I bought an item but I chose a wrong size, how to update my order ?",order_change,change_order,5730
+BTX-0008,"I bought an item but I chose a wrong color, I need to update my order",order_change,change_order,5733
+BTX-0009,"I bought a product but I chose a wrong model , I have to modify my online order",order_change,change_order,5735
+BTX-0010,i bought a fucking item but i chose a wrong model can i modify my online order,order_change,change_order,5739
+BTX-0011,"I purchased a fucking item but I chose a wrong color, I would like to change my fucking online order",order_change,change_order,5749
+BTX-0012,"I purchased a fucking item but I chose a wrong model, I got to change my fucking order",order_change,change_order,5751
+BTX-0013,"I purchased a fucking product ubt I chose a wrong color, how could I update my order?",order_change,change_order,5759
+BTX-0014,"I bought a product but I chose a wrong size, I'd like to change  my order",order_change,change_order,5770
+BTX-0015,I got to change ym order before you send it,order_change,change_order,5783
+BTX-0016,can uhelp me change my fucking order before usend it,order_change,change_order,5799
+BTX-0017,"I bought a fucking item but I chose a wrong color, I want to modify my fucking online order",order_change,change_order,5802
+BTX-0018,"I bought a fucking item but I chose a wrong size, how could Ichange my fucking order?",order_change,change_order,5821
+BTX-0019,i purchased a product but i chose a wrong color i got ot update my online order,order_change,change_order,5828
+BTX-0020,"I bought a fucking item but I chose a wrong size, I wantg to modify my online order",order_change,change_order,5831
+BTX-0021,"I bought an item but I chose a wrong color, how could I update my fucking online order?",order_change,change_order,5837
+BTX-0022,i purchased a fucking item but i chosxe a wrong model I'd like to update my order,order_change,change_order,5872
+BTX-0023,"I need to change my fucking order before you send it, where to do it?",order_change,change_order,5878
+BTX-0024,wanna update my fucking online order before ya send it will ya help me,order_change,change_order,5881
+BTX-0025,"I bought an item but I chose a wrong model, would it be possible to update my fucking order?",order_change,change_order,5894
+BTX-0026,"I purchased a fucking product but I chose a wrong size, could I change my fucking order?",order_change,change_order,5898
+BTX-0027,i want help changing my fucking order before ya send it,order_change,change_order,5907
+BTX-0028,i purchased a fucking item but i chose a wrong size i have to update my order,order_change,change_order,5917
+BTX-0029,"I purchased a fucking product but I chose a wrong color, is it possible to update my order?",order_change,change_order,5924
+BTX-0030,id like to change my order before ya send it will ya help  me,order_change,change_order,5928
+BTX-0031,"I bought an item but I chose an wrong size, would it be possible to update my fucking order?",order_change,change_order,5940
+BTX-0032,"I purchased a fucking item but I chose a wrong model, I have to update my onlkne order",order_change,change_order,5949
+BTX-0033,"I purchased a product but I chose a wrong oclor, I need to update my online order",order_change,change_order,5961
+BTX-0034,"I purchased a fucking item but I chose a wrong model, could I change my fucking order?",order_change,change_order,5962
+BTX-0035,"I bought a fucking item but I chose a wrng size, I want to change my fucking online order",order_change,change_order,5968
+BTX-0036,i purchased a product but i chose a wrfong size could i modify my order,order_change,change_order,5997
+BTX-0037,"I purchased a fucking product but I chosae a wrong size, I got to update my online order",order_change,change_order,6007
+BTX-0038,"I bought a product but I chose a wrong size, could I moidfy my order?",order_change,change_order,6014
+BTX-0039,"I purchased an item but I chose a wrong size, how can I modify my order ?",order_change,change_order,6040
+BTX-0040,i purchased a product but i chose a wrong size is it possible to modify my fucking order,order_change,change_order,6043
+BTX-0041,"I bought a fucking product but I chose a wrong color, I have to update my online order",order_change,change_order,6044
+BTX-0042,"I purchased a product but I chose a wrong model, I got to update my online order",order_change,change_order,6051
+BTX-0043,"I bought an item but I chose a wrong model, how could I modify my order?",order_change,change_order,6091
+BTX-0044,"I have to modify my ufcking order before you send it, where could I do it?",order_change,change_order,6093
+BTX-0045,"I bought a product but I chose a wrong color, how can I change my order?",order_change,change_order,6099
+BTX-0046,could i change my fucking online order before usend it,order_change,change_order,6102
+BTX-0047,"I bought a fucking item but I chose a wrong size, can I modify my order?",order_change,change_order,6110
+BTX-0048,i purchased an item but i chose a wrong size how to modify my ufcking order,order_change,change_order,6112
+BTX-0049,I'd like to change my fucking online order before ya send it can i  get some help,order_change,change_order,6127
+BTX-0050,"I bought a fucking product but I chose  a wrong color, how to change my online order?",order_change,change_order,6128
+BTX-0051,i purchased a product but i chose a wrong color id like to change my fucking onlone order,order_change,change_order,6130
+BTX-0052,"I would like to change  my order before you send it, help me",order_change,change_order,6141
+BTX-0053,"I would like to update my order before you send it, where can I do it?",order_change,change_order,6144
+BTX-0054,"I'd like to change my online order before you send it, can you help me?",order_change,change_order,6157
+BTX-0055,"I purchased a fucking item but I chose a wron model, is it possible to update my order?",order_change,change_order,6162
+BTX-0056,"I bought a product but I chose a wrong modeel, how do I modify my fucking order?",order_change,change_order,6163
+BTX-0057,"I purchased a fucking item but I chose a wrong size, I want to modify my order",order_change,change_order,6188
+BTX-0058,i purchased a product but i chose a wrong color would it be possible to change my fucking order,order_change,change_order,6193
+BTX-0059,i bought a fucking product but i chose a wrong size i got to change my fucking order,order_change,change_order,6196
+BTX-0060,I'd like to modify my fucking oredr before ya send it where could i do it,order_change,change_order,6210
+BTX-0061,"I purchased a fucking item but I chose a wrong model, I would like to update my online order",order_change,change_order,6235
+BTX-0062,wanna change my fucking order before ya esnd it could i get some help,order_change,change_order,6239
+BTX-0063,"I bought an item but I chose a wrong color , I got to update my order",order_change,change_order,6246
+BTX-0064,i bought a product but i chose a wrong size is it possible to change my order,order_change,change_order,6251
+BTX-0065,i bought a ufcking item but i chose a wrong model how could i update my fucking order,order_change,change_order,6259
+BTX-0066,"I bought a fucking item but I chose a wrong color, I want to update my fucking order",order_change,change_order,6261
+BTX-0067,i got to update my online order before usend it were could i do it,order_change,change_order,6291
+BTX-0068,"I have to modify my onlne order before you send it, I need assistance",order_change,change_order,6292
+BTX-0069,"I purchased a fucking product but I chose a wrong size, how could I update my fucking order?",order_change,change_order,6306
+BTX-0070,"I purchased an item but Ichose a wrong size, is it possible to modify my order?",order_change,change_order,6312
+BTX-0071,i have to modify my order before udend it how could i do it,order_change,change_order,6313
+BTX-0072,i purchased a product but i chose a wrong model how to change my fucking online order,order_change,change_order,6321
+BTX-0073,i bought a produdt but i chose a wrong color i have to update my fucking online order,order_change,change_order,6329
+BTX-0074,i bought an fucking item but i chose a wrong size how to modify my order,order_change,change_order,6350
+BTX-0075,"I bought a product but I chose a wrong color, can I update my fucking order?",order_change,change_order,6355
+BTX-0076,i purchased a fucking product but i chose a wrong size I'd like to change  my order,order_change,change_order,6356
+BTX-0077,i purchased a fucking product but i chose a wrong size i got to modify my fucking order,order_change,change_order,6369
+BTX-0078,wanna change my fucking online order before usend it how do i do  it,order_change,change_order,6376
+BTX-0079,"I bought a fucking item but I chose a wrong color, I would like to modify my order",order_change,change_order,6398
+BTX-0080,could uhelp meupdate my online order before usend it,order_change,change_order,6400
+BTX-0081,i bought an fucking item but i chose a wrong size i have to update my order,order_change,change_order,6403
+BTX-0082,"I need to update my order before you send it, could I get some helpo?",order_change,change_order,6440
+BTX-0083,i purchasedd an item but i chose a wrong model id like to modify my fucking order,order_change,change_order,6449
+BTX-0084,id like to modify my fucking online order befire ya send it will ya help me,order_change,change_order,6450
+BTX-0085,I'd like to change my fucking online ordr before ya send it could ya help me,order_change,change_order,6453
+BTX-0086,"I bought a fucking item but I chose a wrong color, I want to update my fucking online order",order_change,change_order,6455
+BTX-0087,"I bought an item but I chose a wrong size, could I change my online order?",order_change,change_order,6456
+BTX-0088,can you help me to modify my fucking order before you send it?,order_change,change_order,6490
+BTX-0089,"I have to modify my order before you send it, how to do it?",order_change,change_order,6495
+BTX-0090,"I have to change my order before you send it, can you help me?",order_change,change_order,6500
+BTX-0091,i bought a product but i chose a wrong color how culd i update my online order,order_change,change_order,6526
+BTX-0092,i purchased an item but i chose a wrong model how can i change my online order,order_change,change_order,6533
+BTX-0093,could i modify my fucking oredr before ya send it,order_change,change_order,6563
+BTX-0094,"I bolught a fucking item but I chose a wrong model, I would like to update my fucking order",order_change,change_order,6573
+BTX-0095,i purchased a fucking item but i chose a wrongcolor is it possible to change my online order,order_change,change_order,6599
+BTX-0096,"I bought a product but I chose a wrong color , I want to modify my fucking online order",order_change,change_order,6601
+BTX-0097,wanna update my order before ya send itcould ya help me,order_change,change_order,6603
+BTX-0098,i purchased a fucking item but i chose a wrong size i got to update my fucking order,order_change,change_order,6609
+BTX-0099,"I purchased a fucking product but I chose a wrong size, how coul I update my fucking online order?",order_change,change_order,6619
+BTX-0100,i bought an item but i chose an wrong color I'd like to update my fucking order,order_change,change_order,6622
+BTX-0101,some products are broken could i report them,damaged_item,damaged_delivery,8624
+BTX-0102,"some products are crushed, help me too report them",damaged_item,damaged_delivery,8638
+BTX-0103,"one of the items is fucking damaged, willyou help me to report it?",damaged_item,damaged_delivery,8640
+BTX-0104,"the products I got were fucking damaged, can you help me report them?",damaged_item,damaged_delivery,8645
+BTX-0105,my package is fucking damaged cann uhelp me reporting it,damaged_item,damaged_delivery,8646
+BTX-0106,some sent products are damaged isit possible to report them,damaged_item,damaged_delivery,8653
+BTX-0107,an item is fuckingcrushed help me report it,damaged_item,damaged_delivery,8658
+BTX-0108,i want assistance to report a fucking crushed product,damaged_item,damaged_delivery,8667
+BTX-0109,"one of the items I ordered was crushed in shipping , I'd like to report it",damaged_item,damaged_delivery,8676
+BTX-0110,the package i received was broken howcould i report it,damaged_item,damaged_delivery,8680
+BTX-0111,one of the products ipurchased was broken in shipping i need assistance to report it,damaged_item,damaged_delivery,8681
+BTX-0112,"my package arrived fucking damaged, will you help me to report it?",damaged_item,damaged_delivery,8693
+BTX-0113,"I'd like to report a crushed prooduct, could I get some help?",damaged_item,damaged_delivery,8701
+BTX-0114,"one of the products I purchased was crushed in shipping, would it be possible to report it?",damaged_item,damaged_delivery,8704
+BTX-0115,the product i got was crushed can i report it,damaged_item,damaged_delivery,8710
+BTX-0116,"one of the products I received was fucking damaged, will you help me reporting it?",damaged_item,damaged_delivery,8721
+BTX-0117,wanna report a fucking broke item can ya help me,damaged_item,damaged_delivery,8722
+BTX-0118,"one of the products I purchased was crushed in shipping, I need assistance reporting it",damaged_item,damaged_delivery,8735
+BTX-0119,"one of the products I ordered was fucking broken in shipping, how do I report it?",damaged_item,damaged_delivery,8739
+BTX-0120,"some products are fucking crushed, how could I report them?",damaged_item,damaged_delivery,8748
+BTX-0121,wanna report fucking broken items how can i do it,damaged_item,damaged_delivery,8777
+BTX-0122,need to report a fucking damaged product,damaged_item,damaged_delivery,8842
+BTX-0123,"I got to report a fucking creushed item, I need help",damaged_item,damaged_delivery,8867
+BTX-0124,"an item is fucking crushed , will you help me report it?",damaged_item,damaged_delivery,8881
+BTX-0125,some fucking itemsi got was damaged i need help to report them,damaged_item,damaged_delivery,8887
+BTX-0126,"my shipment package is damaged, I'd like to report it",damaged_item,damaged_delivery,8892
+BTX-0127,somedelivered items are damaged would it be possible to report them,damaged_item,damaged_delivery,8916
+BTX-0128,"my order package is broken,how can I report it?",damaged_item,damaged_delivery,8917
+BTX-0129,one of the products i ordered was broken in shipping wiill ya help me report it,damaged_item,damaged_delivery,8918
+BTX-0130,the fucking items i got were fucking damaged will ya help me reporting them,damaged_item,damaged_delivery,8932
+BTX-0131,the fucking package i ordereds was broken could ureport it,damaged_item,damaged_delivery,8941
+BTX-0132,"the products I received were fucking crushed, would it be possible to report them?",damaged_item,damaged_delivery,8946
+BTX-0133,a delicered item is fucking crushed help me to report it,damaged_item,damaged_delivery,8953
+BTX-0134,"a shipped product is crushed, how do I report it?",damaged_item,damaged_delivery,8955
+BTX-0135,some items i got was broken can ya help me to report them,damaged_item,damaged_delivery,8961
+BTX-0136,"I'd like to report fucking damaged items, how do I dl it?",damaged_item,damaged_delivery,8972
+BTX-0137,one of the products i received was fucking broken how can i report iit,damaged_item,damaged_delivery,8977
+BTX-0138,some items in my delivery are fucking broken help mer report them,damaged_item,damaged_delivery,8978
+BTX-0139,the fucking package i ordwred was damaged help me report it,damaged_item,damaged_delivery,8980
+BTX-0140,wanna report fucking crushed items how could i do it,damaged_item,damaged_delivery,8997
+BTX-0141,"the package I ordered was damaged, could you helpme to report it?",damaged_item,damaged_delivery,9000
+BTX-0142,"I want to report a damaged product, I need help",damaged_item,damaged_delivery,9005
+BTX-0143,the package i bought was crushed how can i report it,damaged_item,damaged_delivery,9010
+BTX-0144,"one of the items in my package is damaged , I need help to report it",damaged_item,damaged_delivery,9013
+BTX-0145,one of the products i purchased was damaged in shipping how do i report it,damaged_item,damaged_delivery,9014
+BTX-0146,"the package I bought was damaged, cah you help me to report it?",damaged_item,damaged_delivery,9018
+BTX-0147,"someitems in my delivery are broken, how can I report them?",damaged_item,damaged_delivery,9025
+BTX-0148,the fucking products i received were broken i need help to report them,damaged_item,damaged_delivery,9044
+BTX-0149,"I need to report fucking crushed items, could you help me?",damaged_item,damaged_delivery,9061
+BTX-0150,the products i got were fucking crushed will ya help me report them,damaged_item,damaged_delivery,9066
+BTX-0151,the items i received were fucking damaged i wanna report them,damaged_item,damaged_delivery,9067
+BTX-0152,a shipped item is fucking broken i need help reprting it,damaged_item,damaged_delivery,9071
+BTX-0153,my delivery is fucking broken help me reporting it,damaged_item,damaged_delivery,9083
+BTX-0154,the fucking package i received was damaged help me report it,damaged_item,damaged_delivery,9091
+BTX-0155,some fucking products i gotg was broken can ya help me reporting them,damaged_item,damaged_delivery,9097
+BTX-0156,"some delivered items are broken, will you help me to report htem?",damaged_item,damaged_delivery,9114
+BTX-0157,"one of the items I purchased was fucking broken in shipping , how can I report it?",damaged_item,damaged_delivery,9115
+BTX-0158,some items in my delivery are fucking crushed i need assistance reporting them,damaged_item,damaged_delivery,9125
+BTX-0159,how can i report a fucking broken item,damaged_item,damaged_delivery,9126
+BTX-0160,"a delivered product is fucking damaged, could you help me reporting it?",damaged_item,damaged_delivery,9137
+BTX-0161,"one of the products I ordered was crushed, can you report it?",damaged_item,damaged_delivery,9141
+BTX-0162,"I'd like to report a fucking broken item, how can I do it?",damaged_item,damaged_delivery,9143
+BTX-0163,can ya hep me to report a fucking damaged item,damaged_item,damaged_delivery,9159
+BTX-0164,some shipped productsare damaged help me reporting them,damaged_item,damaged_delivery,9161
+BTX-0165,one of the packages in my delivery is damaged report it,damaged_item,damaged_delivery,9163
+BTX-0166,"the fucking package I ordered was damaged, could you help me to report it?",damaged_item,damaged_delivery,9167
+BTX-0167,"one of the products I purchased was crushed in shipping, how could I report it?",damaged_item,damaged_delivery,9172
+BTX-0168,my roder package is fucking broken i need assistance reporting it,damaged_item,damaged_delivery,9180
+BTX-0169,"some fucking products I got was crushed, can I report them?",damaged_item,damaged_delivery,9192
+BTX-0170,"the fucking product I received was crushed, I want to report it",damaged_item,damaged_delivery,9194
+BTX-0171,"the items I got were broken, can you help me reporting them?",damaged_item,damaged_delivery,9205
+BTX-0172,"some delivered products are damaged, can you ehlp me reporting them?",damaged_item,damaged_delivery,9241
+BTX-0173,"the packqge I ordered was damaged, could you help me report it?",damaged_item,damaged_delivery,9286
+BTX-0174,"some of the items are broken, could you help me to report them ?",damaged_item,damaged_delivery,9292
+BTX-0175,"one of the items I bought was fucking crushed in shipping, help me report it",damaged_item,damaged_delivery,9307
+BTX-0176,need to report an damaged package where can i do it,damaged_item,damaged_delivery,9325
+BTX-0177,some delivered products are fucking crudhed I'd like to report them,damaged_item,damaged_delivery,9327
+BTX-0178,one of the packages in my delivery is fucking broken,damaged_item,damaged_delivery,9328
+BTX-0179,"my package is fucking damaged, can you help m to report it?",damaged_item,damaged_delivery,9354
+BTX-0180,need to report a crushed product can i get sme help,damaged_item,damaged_delivery,9367
+BTX-0181,"some items are fucking crushed, I needhelp reporting them",damaged_item,damaged_delivery,9396
+BTX-0182,"some sent items are broken, is it posskble to report them?",damaged_item,damaged_delivery,9402
+BTX-0183,one of the items in my package is damaged will uhelp me report it,damaged_item,damaged_delivery,9439
+BTX-0184,i want assistance reporting itemns,damaged_item,damaged_delivery,9458
+BTX-0185,"the fucking package I received was broken, I need help to report it",damaged_item,damaged_delivery,9460
+BTX-0186,one of the items i bought was fucking broken could ya help me reporting it,damaged_item,damaged_delivery,9474
+BTX-0187,report a fucking damaged package,damaged_item,damaged_delivery,9477
+BTX-0188,the fucking items i received were fuckingcrushed report them,damaged_item,damaged_delivery,9493
+BTX-0189,some fucking ites i received was crushed can ya help me to report them,damaged_item,damaged_delivery,9496
+BTX-0190,"my order is fucking broken, help me to report it",damaged_item,damaged_delivery,9500
+BTX-0191,a product in my delivery is daamged id like to report it,damaged_item,damaged_delivery,9503
+BTX-0192,"some products I received was crushed, I need assistance reporting them",damaged_item,damaged_delivery,9514
+BTX-0193,I'd like to report fuxking damaged products how can i do it,damaged_item,damaged_delivery,9519
+BTX-0194,a product in my delivery is fucking broken i wanna report it,damaged_item,damaged_delivery,9526
+BTX-0195,"I'dlike to report a damaged package, I need assistance",damaged_item,damaged_delivery,9537
+BTX-0196,some delivered products are fucking damaged how do i report them,damaged_item,damaged_delivery,9543
+BTX-0197,id like to report a broken item how can ido it,damaged_item,damaged_delivery,9551
+BTX-0198,my package was fucking crushed in shipipng help me report it,damaged_item,damaged_delivery,9561
+BTX-0199,some products are crushed will uhelp me reporting them,damaged_item,damaged_delivery,9570
+BTX-0200,wanna report productshelp me,damaged_item,damaged_delivery,9580
+BTX-0201,my order was lost report a delivery issue,delivery_delay,delivery_issue,9608
+BTX-0202,"I'd like to report a fucking delivery issue with my order, can I get some help?",delivery_delay,delivery_issue,9611
+BTX-0203,"my order was lost, I need assistance reporting a fucking delivery problem",delivery_delay,delivery_issue,9617
+BTX-0204,my delivery was delayed how do i rewport delivery issues,delivery_delay,delivery_issue,9618
+BTX-0205,"I have not received my order, I want help to report fucking delivery problems",delivery_delay,delivery_issue,9629
+BTX-0206,need to report delivery issues wity my order where to do it,delivery_delay,delivery_issue,9635
+BTX-0207,my package was lost i need help to report a delivery issue,delivery_delay,delivery_issue,9670
+BTX-0208,i did not receive my package help me to report a delivery problem,delivery_delay,delivery_issue,9693
+BTX-0209,"I didn't receive my package, where can I report a delivery problem?",delivery_delay,delivery_issue,9698
+BTX-0210,"my shipment has been lost, can I report fucdking delivery issues?",delivery_delay,delivery_issue,9700
+BTX-0211,"my delivery was lost, would it be ppssible to report a delivery problem?",delivery_delay,delivery_issue,9717
+BTX-0212,mydelivery was lost where could i report delivery problems,delivery_delay,delivery_issue,9729
+BTX-0213,"I would like to report a delivery problem with my shipment, how do I do it?",delivery_delay,delivery_issue,9744
+BTX-0214,how could I report an fucking delivery issue?,delivery_delay,delivery_issue,9768
+BTX-0215,my shipment has been lost could uhelp me to report a delivery issue,delivery_delay,delivery_issue,9770
+BTX-0216,id like to report fucking delivery issues help me,delivery_delay,delivery_issue,9779
+BTX-0217,"I haven't received my shipment , I want assistance reporting delivery issues",delivery_delay,delivery_issue,9781
+BTX-0218,"my delivery was sent to the wrong address, can you helpme to report delivery problems?",delivery_delay,delivery_issue,9796
+BTX-0219,need to report a delivery issue help me,delivery_delay,delivery_issue,9799
+BTX-0220,"I have a fucking problem with my order , I need help reporting it",delivery_delay,delivery_issue,9801
+BTX-0221,I need assistance to report a delivery issue with my shipment,delivery_delay,delivery_issue,9809
+BTX-0222,"my delivery was late, I would  like to report delivery problems",delivery_delay,delivery_issue,9812
+BTX-0223,my order has been lost i got to report a delivery issue,delivery_delay,delivery_issue,9817
+BTX-0224,"my delivery did not arrive on time, how can I report a delivery problem ?",delivery_delay,delivery_issue,9827
+BTX-0225,"I would like to report a delivery issue with my shipment, could you help me?",delivery_delay,delivery_issue,9842
+BTX-0226,wanna report delivery problems with my order how to do it,delivery_delay,delivery_issue,9851
+BTX-0227,my delivery has been lost I'd like to report a fucking delivery problem,delivery_delay,delivery_issue,9874
+BTX-0228,"I'd likd to report a fucking delivery problem with my order, where do I do it?",delivery_delay,delivery_issue,9883
+BTX-0229,"I didn't receive my order, can you help me repolrting a fucking delivery problem?",delivery_delay,delivery_issue,9898
+BTX-0230,my delivery was nit on time is it possible to report a delivery problem,delivery_delay,delivery_issue,9909
+BTX-0231,my order waw sent to the wrong address i want help reporting a delivery problem,delivery_delay,delivery_issue,9911
+BTX-0232,wanna report a fucking delivery issue with my order will uhelp me,delivery_delay,delivery_issue,9919
+BTX-0233,my delivery was late where to report deliveyr problems,delivery_delay,delivery_issue,9927
+BTX-0234,"I got to report a delpivery problem, can you help me?",delivery_delay,delivery_issue,9934
+BTX-0235,"my order was lost , help me to report a fucking delivery problem",delivery_delay,delivery_issue,9948
+BTX-0236,the delivery information is incorrect id like to report delivery issues,delivery_delay,delivery_issue,9959
+BTX-0237,my package has been lost could uhelp me to report delivery problems,delivery_delay,delivery_issue,9965
+BTX-0238,I want help to report delivery problems with my shipment,delivery_delay,delivery_issue,9971
+BTX-0239,my delivery was delayed how to report fucking delivery issues,delivery_delay,delivery_issue,9972
+BTX-0240,i havemt received my package can ya help me report a delivery issue,delivery_delay,delivery_issue,9979
+BTX-0241,"I didn't receive my package , I want assistance reporting delivery issues",delivery_delay,delivery_issue,10004
+BTX-0242,i havent received my order could i report a fucking delivery problem,delivery_delay,delivery_issue,10006
+BTX-0243,"my delivery was not on time, how do I report a fucking delivery issue?",delivery_delay,delivery_issue,10013
+BTX-0244,"I haven't received my order, I would like to report fucking delivery issues",delivery_delay,delivery_issue,10017
+BTX-0245,my shipment was lost where can i report fuckiung delivery issues,delivery_delay,delivery_issue,10028
+BTX-0246,"my ordrr has been lost, could you help me to report fucking delivery issues?",delivery_delay,delivery_issue,10032
+BTX-0247,is it possible to report a fucking delivery issue wiht my shipment,delivery_delay,delivery_issue,10040
+BTX-0248,my delivery was delayed help me to report a fucking delivety issue,delivery_delay,delivery_issue,10101
+BTX-0249,my delivery was late can ya help me report a fucking delivery problem,delivery_delay,delivery_issue,10104
+BTX-0250,ii want help reporting a delivery problem with my package,delivery_delay,delivery_issue,10110
+BTX-0251,idid not receive my package where to report fucking delivery issues,delivery_delay,delivery_issue,10112
+BTX-0252,"my order has been lost, I need to report a delivery problem",delivery_delay,delivery_issue,10116
+BTX-0253,wanna report a delivery problem could uhelp me,delivery_delay,delivery_issue,10120
+BTX-0254,my delivery didnt arrive on time id like to report fucking deliveryissues,delivery_delay,delivery_issue,10126
+BTX-0255,how could I report delivery issues?,delivery_delay,delivery_issue,10127
+BTX-0256,my shipment was sent to the wrong address can uhelp me to report a delivery issue,delivery_delay,delivery_issue,10135
+BTX-0257,"I got to report delivery problems with my shikpment, will you help me?",delivery_delay,delivery_issue,10147
+BTX-0258,"I would like to report fucking delivery issues with my shipment, how can I do it?",delivery_delay,delivery_issue,10165
+BTX-0259,"my delivery was lost, I have to report fucking delivery problems",delivery_delay,delivery_issue,10168
+BTX-0260,my delivery was delayed i need to report fuckingb delivery issues,delivery_delay,delivery_issue,10169
+BTX-0261,my delivery was delayed help me repor delivery problems,delivery_delay,delivery_issue,10171
+BTX-0262,"my delivery was lost, I want assistance reporting delivery problems",delivery_delay,delivery_issue,10179
+BTX-0263,help me repot a delivery issue with my package,delivery_delay,delivery_issue,10197
+BTX-0264,"my delivery was not on time, how could I report a delivery issue?",delivery_delay,delivery_issue,10201
+BTX-0265,my package was lost i want help to report fucking delivery problems,delivery_delay,delivery_issue,10208
+BTX-0266,"I didn't receive my shipment, is it possible to report delivery issues?",delivery_delay,delivery_issue,10215
+BTX-0267,"my delivery was late, I'd like to report delivery issues",delivery_delay,delivery_issue,10270
+BTX-0268,i did not receive my order how can i reprt delivery issues,delivery_delay,delivery_issue,10282
+BTX-0269,i didnt receive my order id like to report fucking delivbery problems,delivery_delay,delivery_issue,10291
+BTX-0270,"I didn't receive my shipment, I need assistancw to report a fucking delivery issue",delivery_delay,delivery_issue,10292
+BTX-0271,i have not received my package help me to report fucking delivery issues,delivery_delay,delivery_issue,10302
+BTX-0272,"my shipment was lost, how to report a delivery issue?",delivery_delay,delivery_issue,10324
+BTX-0273,"I didn't receive my package, help me report a fucking delivery issue",delivery_delay,delivery_issue,10328
+BTX-0274,"my package has been lost, where to report delivery issues?",delivery_delay,delivery_issue,10355
+BTX-0275,"my delivery was delayed, I want help reporting delivery issues",delivery_delay,delivery_issue,10362
+BTX-0276,"I didn't receive my shipment, I need help reporting a delivery problem",delivery_delay,delivery_issue,10368
+BTX-0277,i got to report deliver issues with my shipment,delivery_delay,delivery_issue,10375
+BTX-0278,I want assistance erporting a fucking delivery problem,delivery_delay,delivery_issue,10386
+BTX-0279,"my delivery was not on time, would itbe possible to report a delivery problem?",delivery_delay,delivery_issue,10391
+BTX-0280,"my package was lost, can you help me to report a delivery issue?",delivery_delay,delivery_issue,10393
+BTX-0281,my delivery was lost could i repotr a fucking delivery problem,delivery_delay,delivery_issue,10408
+BTX-0282,i havent received my order how to report delivery issues,delivery_delay,delivery_issue,10428
+BTX-0283,i havent received my order help me to report delivery problems,delivery_delay,delivery_issue,10448
+BTX-0284,"I did not receive my package, report a fucking delivery prolem",delivery_delay,delivery_issue,10461
+BTX-0285,my delivery was lost where do i report a fucking delivery problem,delivery_delay,delivery_issue,10465
+BTX-0286,"I'd like to report a delivery issue with my package, where can I do it?",delivery_delay,delivery_issue,10466
+BTX-0287,"I haven't received my package, where to report a delivery issue?",delivery_delay,delivery_issue,10467
+BTX-0288,my delivery was lost could uhelp me to report a  delivery problem,delivery_delay,delivery_issue,10482
+BTX-0289,"I have to erport a delivery issue with my order, can I get some help?",delivery_delay,delivery_issue,10495
+BTX-0290,i havent receivd my package report a fucking delivery problem,delivery_delay,delivery_issue,10502
+BTX-0291,"my delivery was delayed, where to report a fucking delivery issue?",delivery_delay,delivery_issue,10527
+BTX-0292,"I did not receive my order, help me reporting fucking delivery issuse",delivery_delay,delivery_issue,10530
+BTX-0293,"I didn't receive my shipment, I need to report fucking delivery problems",delivery_delay,delivery_issue,10541
+BTX-0294,"I did not receive my shipment , I need assistance reporting fucking delivery issues",delivery_delay,delivery_issue,10557
+BTX-0295,my delivery has been lost could uhelp me reporting delivery problems,delivery_delay,delivery_issue,10558
+BTX-0296,"I need to report delivery problems with my order, how could I do it?",delivery_delay,delivery_issue,10565
+BTX-0297,"I got to report fucking delivery isues with my order, where do I do it?",delivery_delay,delivery_issue,10568
+BTX-0298,"my delivery was not on time, help me report fucking delivery problems",delivery_delay,delivery_issue,10580
+BTX-0299,i havent received my shipment help me reporting an fucking delivery issue,delivery_delay,delivery_issue,10590
+BTX-0300,"I have a fucking problem with my package, will you help me report it?",delivery_delay,delivery_issue,10596
+BTX-0301,i cant pay help me reporting a  fucking payment issue,payment_problem,payment_issue,18183
+BTX-0302,i cant pay how do i notify of a payment isse,payment_problem,payment_issue,18186
+BTX-0303,"I can't pay, can you help me notifying of a payment issue?",payment_problem,payment_issue,18192
+BTX-0304,"I did not get a payment validation , I want help notifying of payment issues",payment_problem,payment_issue,18206
+BTX-0305,I'd lije to notify of payment problems i need help,payment_problem,payment_issue,18210
+BTX-0306,i cant pay can uhelp me reporting a payment problem,payment_problem,payment_issue,18216
+BTX-0307,"my crdit card did not work, I would like to notify of payment issues",payment_problem,payment_issue,18220
+BTX-0308,i caqnt pay i need help to notify of fucking payment issues,payment_problem,payment_issue,18248
+BTX-0309,i cant make payments i want assistannce notifying of fucking payment problems,payment_problem,payment_issue,18255
+BTX-0310,my debit card was declined could uhelp me to report fucking payment issues,payment_problem,payment_issue,18257
+BTX-0311,the payment failed but i was charged anway i want help to report a fucking payment issue,payment_problem,payment_issue,18262
+BTX-0312,"my credit card didn't work, help me reporting a fucking payment prlblem",payment_problem,payment_issue,18267
+BTX-0313,"I caj't make a transfer, would it be possible to notify of payment problems?",payment_problem,payment_issue,18272
+BTX-0314,"I casnnot make transfers, where could I notify of a payment issue?",payment_problem,payment_issue,18283
+BTX-0315,need to report a payment problem where can i do it,payment_problem,payment_issue,18327
+BTX-0316,th payment failed help me notifying of a payment issue,payment_problem,payment_issue,18343
+BTX-0317,the payment did not go through i want help reporting a payment problem,payment_problem,payment_issue,18357
+BTX-0318,wanna report  a fucking payment problem where could i do it,payment_problem,payment_issue,18359
+BTX-0319,i cant make a payment how do i report fucking payment problems,payment_problem,payment_issue,18363
+BTX-0320,i get an error when i try to pay could uhelp me report it,payment_problem,payment_issue,18375
+BTX-0321,"I can't pay, help me to  report a fucking payment issue",payment_problem,payment_issue,18389
+BTX-0322,i got to noitify of payment issues help me,payment_problem,payment_issue,18394
+BTX-0323,"my credit card was declined, help me reporting payment issues",payment_problem,payment_issue,18414
+BTX-0324,"the payment failed, but I was charged anyway, help me to notify of a fucking payment poblem",payment_problem,payment_issue,18430
+BTX-0325,"I had a fucking problem paying with debit card, I need assistance to notify ob it",payment_problem,payment_issue,18433
+BTX-0326,"I'd a problem checking out with debit card , I need help to report it",payment_problem,payment_issue,18472
+BTX-0327,"I had a fucking problem making a transfer with card, can you help me to notify o it?",payment_problem,payment_issue,18476
+BTX-0328,my transaction was declined i got to report payment problems,payment_problem,payment_issue,18493
+BTX-0329,"the payment failed, could you help me notify of a payment problem?",payment_problem,payment_issue,18494
+BTX-0330,"I cannot make a transfer, I need help to report fucking payment issues",payment_problem,payment_issue,18503
+BTX-0331,the payment failed help mne reporting fucking payment issues,payment_problem,payment_issue,18507
+BTX-0332,"I'd like to solve payment problems, will you help me?",payment_problem,payment_issue,18508
+BTX-0333,how to solve a payment issue,payment_problem,payment_issue,18512
+BTX-0334,"my credit card was declined, could you help me reoort a payment problem?",payment_problem,payment_issue,18522
+BTX-0335,"I'd like to solve payment problems , how could I do it?",payment_problem,payment_issue,18523
+BTX-0336,i cant make payments i need asxistance reporting payment problems,payment_problem,payment_issue,18533
+BTX-0337,my credit card did not work were do i report fucking payment issues,payment_problem,payment_issue,18544
+BTX-0338,id like tp notify of payment issues could i get some help,payment_problem,payment_issue,18566
+BTX-0339,"my card didn't work, can you help me notifying of a payment problem?",payment_problem,payment_issue,18577
+BTX-0340,i cant make transfers i got to report payment  problems,payment_problem,payment_issue,18582
+BTX-0341,i had a fucking problm paying with card can ya notify of it,payment_problem,payment_issue,18586
+BTX-0342,"my credit card was declined, help em report fucking payment problems",payment_problem,payment_issue,18623
+BTX-0343,my transaction was declined i need assistance notifying of payment problems,payment_problem,payment_issue,18629
+BTX-0344,i get a fucking error when i try to check out will uhelp me reporting it,payment_problem,payment_issue,18655
+BTX-0345,i cant pay where can i report payment problems,payment_problem,payment_issue,18664
+BTX-0346,i have top solve a payment problem,payment_problem,payment_issue,18673
+BTX-0347,the payment failed but i was charged anyway could i report fucking payment issues,payment_problem,payment_issue,18676
+BTX-0348,i didnt get a payment valoidation can ya help me notifying of fucking payment issues,payment_problem,payment_issue,18677
+BTX-0349,"my card did not work, can you help me notifying of payment issues?",payment_problem,payment_issue,18680
+BTX-0350,the payment failed could i notify of payment issues,payment_problem,payment_issue,18696
+BTX-0351,"I cannot pay, could I notify of a fucking payment problem?",payment_problem,payment_issue,18700
+BTX-0352,"I can't make a transfer , could I report a payment problem?",payment_problem,payment_issue,18702
+BTX-0353,i have to solve a payment problem i need help,payment_problem,payment_issue,18708
+BTX-0354,my card didnt work coluld uhelp me to report payment problems,payment_problem,payment_issue,18720
+BTX-0355,"my credit card didn't work, report a fucking payment issue",payment_problem,payment_issue,18729
+BTX-0356,my credit card did not work help me notify of a payment problem,payment_problem,payment_issue,18743
+BTX-0357,"I didn't get a payment validation, is it possible to notify of an payment issue?",payment_problem,payment_issue,18755
+BTX-0358,"my debit card did not work, I have to report payment problems",payment_problem,payment_issue,18757
+BTX-0359,"I had a problem making a payment with debit card, I need assisance to report it",payment_problem,payment_issue,18760
+BTX-0360,i had a problem making a payment with debit card i need help to notify of it,payment_problem,payment_issue,18784
+BTX-0361,my card didnt work is it possible to notify of payment problems,payment_problem,payment_issue,18785
+BTX-0362,"I canot make a transfer, could you help me notify of a payment problem?",payment_problem,payment_issue,18792
+BTX-0363,i cannot make transfers i need assistance notifying of fucking payment problems,payment_problem,payment_issue,18801
+BTX-0364,the payment failed but i was charged anyway report a payment problem,payment_problem,payment_issue,18807
+BTX-0365,"I can't make payments, how do I report a fucking payment proiblem?",payment_problem,payment_issue,18812
+BTX-0366,"I cannot make transfers, I need help to report payment problems",payment_problem,payment_issue,18851
+BTX-0367,"my credit card was declined,how can I report a payment issue?",payment_problem,payment_issue,18862
+BTX-0368,my credit card didnt work how do i notify of a fucking payment isuse,payment_problem,payment_issue,18867
+BTX-0369,"I didn't get a payment validation, can you help me notify of a fucking payment issue?",payment_problem,payment_issue,18871
+BTX-0370,i need help to notify of payment problems,payment_problem,payment_issue,18892
+BTX-0371,i get an error when i try to make a payment can uhelp me notify of it,payment_problem,payment_issue,18923
+BTX-0372,"my debit card did not work , I want help to notify of a payment problem",payment_problem,payment_issue,18934
+BTX-0373,the payment failed but i was charged anyway i need assistancer to notify of fucking payment issues,payment_problem,payment_issue,18949
+BTX-0374,"I'd a fucking problem making a transfer with credit card, I need help to notify of it",payment_problem,payment_issue,18950
+BTX-0375,"I can't pay, I got to notify of payment problems",payment_problem,payment_issue,18985
+BTX-0376,"I had a problem checking out with debit card, could you help me report it?",payment_problem,payment_issue,19006
+BTX-0377,"my debit card did not work, would it be possible to notify of fucking payment issues?",payment_problem,payment_issue,19013
+BTX-0378,i cant make transfers notify of fucking patment issues,payment_problem,payment_issue,19028
+BTX-0379,the payment failed how do i report an fucking payment problem,payment_problem,payment_issue,19034
+BTX-0380,"I can't make a transfer, I'd like to repot a payment issue",payment_problem,payment_issue,19037
+BTX-0381,"the payment failed, but I was charged anyway , I need to notify of payment problems",payment_problem,payment_issue,19039
+BTX-0382,"my debit card did not work, I need assistance reporting payment issues",payment_problem,payment_issue,19059
+BTX-0383,"I cannot make a payment, I need assistance reporting a fucking payment issue",payment_problem,payment_issue,19060
+BTX-0384,my credit card didnt work i need assistance to report a fucking payment issue,payment_problem,payment_issue,19068
+BTX-0385,"I had a fucking problem checking out with card, could you help me to report it?",payment_problem,payment_issue,19078
+BTX-0386,"the payment failed, is it possible to report paymentproblems?",payment_problem,payment_issue,19081
+BTX-0387,"I had a fucking problem paying with debit card, could you help me report it ?",payment_problem,payment_issue,19091
+BTX-0388,wanna report a fucking payment problem where can i dfo it,payment_problem,payment_issue,19094
+BTX-0389,"I'd an fucking problem making a transfer with debit card, could you help me to notify of it?",payment_problem,payment_issue,19102
+BTX-0390,"I can't make a transfer , can you help me to report a payment problem?",payment_problem,payment_issue,19111
+BTX-0391,"my card didn't work, is it possible to report a fucking payment issue?",payment_problem,payment_issue,19119
+BTX-0392,"I can't make payments , I want help reporting a payment problem",payment_problem,payment_issue,19123
+BTX-0393,"I had a fucking problem checking out with card, could you help me notify of it?",payment_problem,payment_issue,19125
+BTX-0394,id a fucking probglem making a transfer with credit card help me notify of it,payment_problem,payment_issue,19136
+BTX-0395,"the payment failed, where do I notify of a fucking payment issue?",payment_problem,payment_issue,19146
+BTX-0396,"I'd like to notify of a payment proboem, could you help me?",payment_problem,payment_issue,19150
+BTX-0397,the payment did not go through help me to report payment problems,payment_problem,payment_issue,19154
+BTX-0398,"my card didn't work , I need assistance reporting a payment issue",payment_problem,payment_issue,19162
+BTX-0399,"my debt card was declined, would it be possible to notify of a fucking payment issue?",payment_problem,payment_issue,19163
+BTX-0400,"the payment failed, I need assistance reporting payment issues",payment_problem,payment_issue,19165
+BTX-0401,somwone hacked my user recover my fucking password,account_access,recover_password,22161
+BTX-0402,"my password has been hacked, I'd like to reset it",account_access,recover_password,22171
+BTX-0403,i dont remember my password can ya help me recovering it,account_access,recover_password,22174
+BTX-0404,i lost my  fucking password i need help recovering it,account_access,recover_password,22178
+BTX-0405,"I forgot my password, help me reset it",account_access,recover_password,22181
+BTX-0406,"I want to reset my fucking password, where do I do it?",account_access,recover_password,22198
+BTX-0407,"my fucking password has been hacked, will you help me resetting it?",account_access,recover_password,22217
+BTX-0408,someone entered my account i need help recovering my password,account_access,recover_password,22266
+BTX-0409,sopmeone hacked my account can ya help me reset my fucking password,account_access,recover_password,22289
+BTX-0410,my fucking password has bee stolen i wanna recover it,account_access,recover_password,22290
+BTX-0411,"my uset has been stolen, help me resetting my fucking password",account_access,recover_password,22296
+BTX-0412,"someone stole my password,  recover it",account_access,recover_password,22305
+BTX-0413,i hae to reset my fucking password can i get some help,account_access,recover_password,22310
+BTX-0414,how could I reset my password?,account_access,recover_password,22347
+BTX-0415,"I do notremember my password, recover it",account_access,recover_password,22358
+BTX-0416,"someone stole my password, could you help me recover it ?",account_access,recover_password,22364
+BTX-0417,someone stole my user how to recover my fucking password,account_access,recover_password,22367
+BTX-0418,i need assistance resetting my password,account_access,recover_password,22369
+BTX-0419,"someone stole my user, could I reset my fucking password ?",account_access,recover_password,22376
+BTX-0420,someone hacked my fucking password can uhelp m recover it,account_access,recover_password,22379
+BTX-0421,"my fucking password has been stolen, can you recover it?",account_access,recover_password,22380
+BTX-0422,"I want to reset my password , I need assistance",account_access,recover_password,22383
+BTX-0423,"I don't remember my fucking password , I need assistance recovering it",account_access,recover_password,22388
+BTX-0424,ym profile has been hacked could uhelp me to recover my fucking password,account_access,recover_password,22396
+BTX-0425,"someone stole my user, I need assistance recovering my fucking password",account_access,recover_password,22410
+BTX-0426,I'd like to recover my password how could i do it,account_access,recover_password,22415
+BTX-0427,i lost my fucking password will ya help me to recover it,account_access,recover_password,22434
+BTX-0428,someone stole mypassword i wanna recover it,account_access,recover_password,22440
+BTX-0429,my fucking password has been hacked I'd like to recover it,account_access,recover_password,22467
+BTX-0430,"I want to recover my fucking password, where could I do it?",account_access,recover_password,22475
+BTX-0431,"someone stole my profile , I got to recover my fucking password",account_access,recover_password,22491
+BTX-0432,"I lost my password, I want to reset it",account_access,recover_password,22502
+BTX-0433,"someone entered my account, I would like to reset my password",account_access,recover_password,22518
+BTX-0434,"I have toreset my password, how to do it?",account_access,recover_password,22527
+BTX-0435,"someone stole my user, I want assistance to recover my fucknig password",account_access,recover_password,22543
+BTX-0436,"someone stole my account, can I reset my fucking password?",account_access,recover_password,22545
+BTX-0437,someone stole my password i need assistance to reset it,account_access,recover_password,22549
+BTX-0438,"I want to reset my fucking password, where can I do it ?",account_access,recover_password,22555
+BTX-0439,my account has been hacked help me recovering my fucking password,account_access,recover_password,22564
+BTX-0440,someone hacked my fucking password can ya help me to recover it,account_access,recover_password,22588
+BTX-0441,someone entered my account help me recovering my fucking password,account_access,recover_password,22592
+BTX-0442,"I don't remember my fucking password, I need assistance to reset it",account_access,recover_password,22604
+BTX-0443,could uhelp me recover my pasword,account_access,recover_password,22607
+BTX-0444,someone entered my account help me recovering my passwodr,account_access,recover_password,22626
+BTX-0445,"someone stole my password, can you help me to reset it?",account_access,recover_password,22629
+BTX-0446,someone stole my user can ya help me reset my fucking password,account_access,recover_password,22631
+BTX-0447,need to recover my password can i get some help,account_access,recover_password,22633
+BTX-0448,my profile has been hacked i need help to reset my fucking password,account_access,recover_password,22634
+BTX-0449,"I don't remember my password, could I recover it?",account_access,recover_password,22649
+BTX-0450,someone hacked my fucking password would it be possible to recover it,account_access,recover_password,22650
+BTX-0451,"my account has been hacked, I  need to recover my fucking password",account_access,recover_password,22657
+BTX-0452,"I would like to reset my fucking password , I need assistance",account_access,recover_password,22671
+BTX-0453,someone entered my account i need help to recover my poassword,account_access,recover_password,22685
+BTX-0454,"I do not remember my fucking password , I want to recover it",account_access,recover_password,22709
+BTX-0455,"I would like to reset my password, how do I do it?",account_access,recover_password,22730
+BTX-0456,"someone hacked my account, would  it be possible to reset my fucking password?",account_access,recover_password,22733
+BTX-0457,"someone stole my fucking password, I want to recover it",account_access,recover_password,22734
+BTX-0458,my password has been hacked how could i reset it,account_access,recover_password,22736
+BTX-0459,my account has been stolen i need assistance resetrting my fucking password,account_access,recover_password,22741
+BTX-0460,"someone stole my password, reset it",account_access,recover_password,22749
+BTX-0461,need to reset my fucking password can uhelp me,account_access,recover_password,22768
+BTX-0462,"someone stole my account, reset my fucking password",account_access,recover_password,22769
+BTX-0463,i got to recover my password how to do it,account_access,recover_password,22770
+BTX-0464,my password has been stolen could uhelp me resetting it,account_access,recover_password,22771
+BTX-0465,"my account has been stolen, can I recover my password?",account_access,recover_password,22774
+BTX-0466,i do not remember my fucking pasword will ya help me resetting it,account_access,recover_password,22796
+BTX-0467,i dont remember my password can i recovdr it,account_access,recover_password,22813
+BTX-0468,my profile has been stolen how do i reset my fucking password,account_access,recover_password,22816
+BTX-0469,my account has ben hacked i want assistance recovering my fucking password,account_access,recover_password,22821
+BTX-0470,"my user has been stolen, I want help recovering my password",account_access,recover_password,22829
+BTX-0471,i forgot my fucking password could uresetit,account_access,recover_password,22831
+BTX-0472,"someone hacked my account, can you help me to recover my password?",account_access,recover_password,22837
+BTX-0473,my fucking password has beenhacked how do i reset it,account_access,recover_password,22848
+BTX-0474,awnna reset my password help me,account_access,recover_password,22867
+BTX-0475,i lost my fucking password would it be possible to reset it,account_access,recover_password,22872
+BTX-0476,my account has been stolen could ya help meto recover my fucking password,account_access,recover_password,22876
+BTX-0477,"my account has been stolen, could you help me to recover my password?",account_access,recover_password,22894
+BTX-0478,"someone stole  my profile, can you help me reset my password?",account_access,recover_password,22925
+BTX-0479,"I want to recover my password, will you help me ?",account_access,recover_password,22931
+BTX-0480,someone stole my user how can i reset my fucking password,account_access,recover_password,22934
+BTX-0481,"my account has been stolen, I need assistance recovering my fucking password",account_access,recover_password,22940
+BTX-0482,i forgot my fucking password can uhelp me recovering it,account_access,recover_password,22954
+BTX-0483,"my profile has been hacked, I'd like to reover my password",account_access,recover_password,22971
+BTX-0484,i do not remember my fucking password help  me resetting it,account_access,recover_password,22975
+BTX-0485,can i recover my ufcking password,account_access,recover_password,22978
+BTX-0486,"I got to reset my password, how do I do it?",account_access,recover_password,22994
+BTX-0487,someone stole my account  help me to reset my fucking password,account_access,recover_password,23016
+BTX-0488,"my profile has been hackeed, help me reset my fucking password",account_access,recover_password,23025
+BTX-0489,"my user has been hacked, I need help recovering my fucking password",account_access,recover_password,23045
+BTX-0490,i lost my fucking password id like to reset it,account_access,recover_password,23048
+BTX-0491,"someone stole my profile, I'd like to reset my password",account_access,recover_password,23057
+BTX-0492,"I do not remember my password, will you help me resetting it?",account_access,recover_password,23064
+BTX-0493,need to reset my password how to do it,account_access,recover_password,23079
+BTX-0494,my account has been hacked i want assistance resetting my fucking password,account_access,recover_password,23082
+BTX-0495,I want to reset my fucknig password,account_access,recover_password,23084
+BTX-0496,my acfount has been hacked would it be possible to recover my password,account_access,recover_password,23104
+BTX-0497,someone hacked my profile could ya help me resetr my fucking password,account_access,recover_password,23114
+BTX-0498,"somedone stole my user, I need to reset my password",account_access,recover_password,23116
+BTX-0499,someone hacked my account can ya help me reset my password,account_access,recover_password,23125
+BTX-0500,"I got to recover my fucking password, how do I do it?",account_access,recover_password,23137
+BTX-0501,"I want a fucking reimbursement, where can I request it?",refund_request,request_refund,27141
+BTX-0502,"I'm trying to find a fucking refund, could you help me?",refund_request,request_refund,27149
+BTX-0503,i want a fucking refund i wanna get it,refund_request,request_refund,27150
+BTX-0504,I got to get a  refund,refund_request,request_refund,27159
+BTX-0505,I'd like to get a fucking reimbursement where can i do it,refund_request,request_refund,27167
+BTX-0506,how do I request a fucking reimbursement?,refund_request,request_refund,27172
+BTX-0507,I'd like to get a refund where do i do it,refund_request,request_refund,27177
+BTX-0508,"I would like to get an fucking reimbursement, where to do it?",refund_request,request_refund,27193
+BTX-0509,"I'd liek to request a fucking refund, can I get some help?",refund_request,request_refund,27206
+BTX-0510,where to request a refund,refund_request,request_refund,27207
+BTX-0511,help me getting a reimbursement,refund_request,request_refund,27218
+BTX-0512,can uhelp me gettting a fucking refund,refund_request,request_refund,27223
+BTX-0513,how do i get a rtefund,refund_request,request_refund,27228
+BTX-0514,I got to request a reimbusrement,refund_request,request_refund,27240
+BTX-0515,"I'd like to request a reimbursement, I need assistance",refund_request,request_refund,27243
+BTX-0516,i want a reimbursement help me getting it,refund_request,request_refund,27249
+BTX-0517,"I need a reimbursement , will you help me get it?",refund_request,request_refund,27257
+BTX-0518,i got t request a fucking reimbursement how do i do it,refund_request,request_refund,27259
+BTX-0519,I want help getting an reimbursement,refund_request,request_refund,27260
+BTX-0520,i want a fucking refund help me request it,refund_request,request_refund,27279
+BTX-0521,"I got to get a fucking reimbusrement, will you help me?",refund_request,request_refund,27280
+BTX-0522,"I need to request a fucking reimbursement, could you help me?",refund_request,request_refund,27283
+BTX-0523,i want a fucking reimbursement could ya hlp me get it,refund_request,request_refund,27286
+BTX-0524,im looking for a refund help me,refund_request,request_refund,27291
+BTX-0525,i need a fucking reimbursement help me getting it,refund_request,request_refund,27293
+BTX-0526,"I am looking for a fucking reimbursement, can I get some help?",refund_request,request_refund,27294
+BTX-0527,i have to request a fucking refund could uhelp me,refund_request,request_refund,27304
+BTX-0528,need to request a refund will uhelp me,refund_request,request_refund,27322
+BTX-0529,i want a fucking reimbursement how do i get it,refund_request,request_refund,27325
+BTX-0530,i have to request a fuvking refund where to do it,refund_request,request_refund,27330
+BTX-0531,"I would like to get a fucking refund, how to do it?",refund_request,request_refund,27384
+BTX-0532,I want help to get a refund,refund_request,request_refund,27400
+BTX-0533,"I am looking for a fucking reimbursement, could you help me?",refund_request,request_refund,27417
+BTX-0534,"I need a reimbursmeent, can you request it?",refund_request,request_refund,27430
+BTX-0535,"I'm looking for a fucking reimbursement, can you help me to find it?",refund_request,request_refund,27432
+BTX-0536,im looking for a fucking refund could ya help me to find it,refund_request,request_refund,27439
+BTX-0537,"I want a fucking reimbursement, where can I get it?",refund_request,request_refund,27449
+BTX-0538,"I got to get a refund, how could I do it?",refund_request,request_refund,27455
+BTX-0539,"I want a reimbursement, how can I request it?",refund_request,request_refund,27460
+BTX-0540,id like to request a fucking reimbursement how can i do it,refund_request,request_refund,27472
+BTX-0541,i want a fucking refund could uhelp me getting it,refund_request,request_refund,27474
+BTX-0542,"I'd like to get an fucking reimbursement, how do I do it?",refund_request,request_refund,27479
+BTX-0543,"I got to request a reombursement, could you help me?",refund_request,request_refund,27499
+BTX-0544,i need a reimbursement get it,refund_request,request_refund,27512
+BTX-0545,"I am looking for a fucking reimbursement, help me to find it",refund_request,request_refund,27527
+BTX-0546,im looking for a fucking reimbursement can i get some help,refund_request,request_refund,27534
+BTX-0547,im looking for an reimbursement,refund_request,request_refund,27539
+BTX-0548,"I hve to get a reimbursement, I need assistance",refund_request,request_refund,27552
+BTX-0549,"I got to request a reimbursmeent, help me",refund_request,request_refund,27571
+BTX-0550,"I'm looking for a fucking reimbursement, help me",refund_request,request_refund,27582
+BTX-0551,i have to request an fucking refund can i get some help,refund_request,request_refund,27606
+BTX-0552,I'd like to request a fucking erfund,refund_request,request_refund,27609
+BTX-0553,"I want a fucking reimbursement , I need help to request it",refund_request,request_refund,27617
+BTX-0554,i want a fucking reimbursement could uhelp  me to request it,refund_request,request_refund,27630
+BTX-0555,"I want ot get a fucking reimbursement, how to do it?",refund_request,request_refund,27631
+BTX-0556,where do i geta fucking refund,refund_request,request_refund,27633
+BTX-0557,"I want a fucking refund, czn you help me get it?",refund_request,request_refund,27635
+BTX-0558,i have to get a fucking refund i need assistance,refund_request,request_refund,27640
+BTX-0559,"I wouldlike to request a fucking reimbursement, how can I do it?",refund_request,request_refund,27644
+BTX-0560,"I'd like to get a fucking refund, could I get some help?",refund_request,request_refund,27660
+BTX-0561,where do i get a fucking reimbursement,refund_request,request_refund,27674
+BTX-0562,i have to requdst a refund how to do it,refund_request,request_refund,27680
+BTX-0563,"I want a fucking reimbursement, will you help me request it?",refund_request,request_refund,27682
+BTX-0564,i want a fucking reimbursement i wanna get it,refund_request,request_refund,27685
+BTX-0565,how can I request a reimbursement ?,refund_request,request_refund,27698
+BTX-0566,"I would like to get a reimbursement,can I get some help?",refund_request,request_refund,27701
+BTX-0567,where can i request a fucking reimbursement,refund_request,request_refund,27704
+BTX-0568,"I would like to request a fucking reimbursement, where could I do it?",refund_request,request_refund,27724
+BTX-0569,help mee requesting a refund,refund_request,request_refund,27725
+BTX-0570,i got to request a fucking reimbursement can uhelp me,refund_request,request_refund,27727
+BTX-0571,im looking for a fucking refund i need help to find it,refund_request,request_refund,27736
+BTX-0572,"I am trying to find a fucking refund, help me",refund_request,request_refund,27770
+BTX-0573,how to request a refund?,refund_request,request_refund,27772
+BTX-0574,how can i request a fucking refund,refund_request,request_refund,27779
+BTX-0575,i have to get a refund can iu get some help,refund_request,request_refund,27793
+BTX-0576,i want a fucking refund could uget it,refund_request,request_refund,27799
+BTX-0577,i got to request a fucking reimmbursement where do i do it,refund_request,request_refund,27812
+BTX-0578,I want assistance to request a reimbursement,refund_request,request_refund,27883
+BTX-0579,i got to get a reimbursement how can i do it,refund_request,request_refund,27890
+BTX-0580,"I want a fucking reimbursement, could I get it?",refund_request,request_refund,27898
+BTX-0581,how can I get a refudn?,refund_request,request_refund,27904
+BTX-0582,"I'd like to get a reimbursment, could I get some help?",refund_request,request_refund,27912
+BTX-0583,"I got to request an reimbursement, where can I do it?",refund_request,request_refund,27919
+BTX-0584,i got to get a reimbursememt how do i do it,refund_request,request_refund,27922
+BTX-0585,i want a fucking refund can urequest it,refund_request,request_refund,27946
+BTX-0586,"I need a fucking reimbuyrsement, could you help me to request it?",refund_request,request_refund,27995
+BTX-0587,need to get a reimbursement how could i do it,refund_request,request_refund,27999
+BTX-0588,"I'm trying to find a refund, can I get some help?",refund_request,request_refund,28012
+BTX-0589,I'm looking for a fucking refund could ya help me,refund_request,request_refund,28018
+BTX-0590,I'd like to get a fucking refund can i get some help,refund_request,request_refund,28019
+BTX-0591,i have tl request a refund,refund_request,request_refund,28021
+BTX-0592,"I would like to request a reimbnursement, will you help me?",refund_request,request_refund,28023
+BTX-0593,im looking for a reimbursement could i get some help,refund_request,request_refund,28030
+BTX-0594,I'm looking for aa fucking reimbursement i need assistance finding it,refund_request,request_refund,28039
+BTX-0595,"I am looking for a reimbursement, colud you help me finding it?",refund_request,request_refund,28050
+BTX-0596,"I'm lolking for a refund, I need assistance to find it",refund_request,request_refund,28053
+BTX-0597,"I want a fucking  reimbursement, I need help getting it",refund_request,request_refund,28059
+BTX-0598,i need a fucking remibursement how do i get it,refund_request,request_refund,28062
+BTX-0599,"I would like to request a fucking reimbursement, how could I do it?",refund_request,request_refund,28072
+BTX-0600,i got to request a fucking reimbursement where can i do it,refund_request,request_refund,28079
