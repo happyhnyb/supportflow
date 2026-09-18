@@ -17,8 +17,10 @@ def test_redaction_and_order_extraction():
     assert extract_order_ids(text) == ["AB123"]
 
 
-def test_analysis_returns_matching_guidance():
-    model = joblib.load("models/supportflow_model.joblib")
+def test_analysis_returns_matching_guidance(tmp_path):
+    model_path = tmp_path / "supportflow_model.joblib"
+    train(Path("data/support_tickets.csv"), model_path)
+    model = joblib.load(model_path)
     kb = KnowledgeBase.load(Path("data/knowledge_base.json"))
     output = analyse(model, kb, "My new headphones arrived broken and I need a replacement.")
     assert output["intent"] == "damaged_item"
