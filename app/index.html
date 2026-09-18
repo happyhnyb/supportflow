@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Support desk</title>
+  <style>
+    :root{--navy:#19324b;--blue:#2168a4;--line:#d9e0e6;--muted:#667582;--red:#9e3c3c}*{box-sizing:border-box}
+    body{margin:0;background:#f4f6f8;color:#1d2b36;font:15px/1.5 Arial,sans-serif}header{background:var(--navy);color:#fff}
+    .bar,main{width:min(1100px,calc(100% - 32px));margin:auto}.bar{height:62px;display:flex;align-items:center;justify-content:space-between}
+    .brand{font-size:19px;font-weight:700}.section-name{color:#cad6e0;font-size:13px}main{padding:28px 0 48px}h1{margin:0 0 5px;font-size:27px}
+    .intro{margin:0 0 24px;color:var(--muted)}.layout{display:grid;grid-template-columns:440px 1fr;gap:20px;align-items:start}
+    .panel{border:1px solid var(--line);border-radius:6px;background:#fff}.panel-title{padding:15px 18px;border-bottom:1px solid var(--line);font-weight:700}
+    .panel-body{padding:18px}label{display:block;margin-bottom:7px;font-size:13px;font-weight:700}textarea{width:100%;min-height:220px;resize:vertical;border:1px solid #bfcbd5;border-radius:4px;padding:11px;color:#1d2b36;font:inherit}
+    textarea:focus{outline:2px solid #9fc3e3;border-color:var(--blue)}.notice{margin:10px 0 0;color:var(--muted);font-size:12px}
+    button{width:100%;margin-top:16px;border:0;border-radius:4px;padding:11px;background:var(--blue);color:#fff;cursor:pointer;font:inherit;font-weight:700}
+    button:hover{background:#185a92}button:disabled{opacity:.6;cursor:wait}.examples{display:flex;flex-wrap:wrap;gap:8px;margin-top:13px}.example{width:auto;margin:0;border:1px solid #cbd6df;padding:6px 9px;background:#fff;color:#325e86;font-size:12px}
+    .empty{padding:25px 0;color:var(--muted)}.result-row{display:grid;grid-template-columns:1fr auto;gap:12px;border-bottom:1px solid var(--line);padding-bottom:17px}
+    .label{display:block;color:var(--muted);font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase}.intent{margin-top:3px;font-size:23px;font-weight:700}
+    .priority{color:var(--blue);font-weight:700;text-align:right}.priority.high,.error{color:var(--red)}.confidence{color:var(--muted);font-size:12px;text-align:right}
+    section.detail{margin-top:17px}.text{margin:5px 0 0}.next-step{margin-top:7px;border-left:3px solid var(--blue);padding:10px 12px;background:#f2f7fb}
+    .references{margin:5px 0 0;padding-left:18px}.references li{margin:7px 0}.references small,.redacted,footer{color:var(--muted)}
+    .redacted{border:1px solid #e5e9ed;border-radius:4px;padding:9px;background:#f8fafb;word-break:break-word}.error{margin-top:10px;font-size:13px}footer{margin-top:17px;font-size:12px}
+    @media(max-width:780px){.layout{grid-template-columns:1fr}.section-name{display:none}}
+  </style>
+</head>
+<body>
+  <header><div class="bar"><div class="brand">Support desk</div><div class="section-name">Ticket triage</div></div></header>
+  <main><h1>Review a customer ticket</h1><p class="intro">This tool suggests routing and approved guidance. A support agent remains responsible for the final response.</p>
+    <div class="layout">
+      <form class="panel" id="ticket-form"><div class="panel-title">New ticket</div><div class="panel-body">
+        <label for="message">Customer message</label><textarea id="message" required>Order #AB123 was due Friday and still has not arrived. I need it tomorrow - please help.</textarea>
+        <p class="notice">Email addresses, telephone numbers, and card-like patterns are redacted before external AI review.</p>
+        <button id="submit" type="submit">Review ticket</button><div class="examples">
+          <button class="example" type="button" data-message="My card was charged twice for order #PAY220. Please investigate urgently.">Payment example</button>
+          <button class="example" type="button" data-message="My headphones arrived broken and I need a replacement.">Damaged item example</button>
+        </div><div class="error" id="error" role="alert"></div></div></form>
+      <aside class="panel" aria-live="polite"><div class="panel-title">Suggested handling</div><div class="panel-body">
+        <div class="empty" id="empty">Enter a customer message to see a suggested queue, priority, summary, and relevant policy articles.</div>
+        <div id="result" hidden><div class="result-row"><div><span class="label">Suggested queue</span><div class="intent" id="intent"></div></div><div><div class="priority" id="priority"></div><div class="confidence"><span id="confidence"></span> model confidence</div></div></div>
+          <section class="detail"><span class="label">Internal summary</span><p class="text" id="summary"></p></section>
+          <section class="detail"><span class="label">Recommended next step</span><div class="next-step" id="next-step"></div></section>
+          <section class="detail"><span class="label">Order reference</span><p class="text" id="orders"></p></section>
+          <section class="detail"><span class="label">Approved guidance</span><ul class="references" id="guidance"></ul></section>
+          <section class="detail"><span class="label">Redacted message</span><div class="redacted" id="redacted"></div></section>
+        </div></div></aside>
+    </div><footer>Internal decision support only. Do not use this tool to approve refunds, modify accounts, or send customer communications automatically.</footer>
+  </main>
+  <script>
+    const $=id=>document.getElementById(id);
+    function showGuidance(articles){const list=$("guidance");list.replaceChildren();if(!articles.length){const item=document.createElement("li");item.textContent="No matching policy article was found.";list.append(item);return}for(const article of articles){const item=document.createElement("li"),title=document.createElement("strong"),snippet=document.createElement("small");title.textContent=article.title;snippet.textContent=article.snippet;item.append(title,document.createElement("br"),snippet);list.append(item)}}
+    function showResult(data){$("empty").hidden=true;$("result").hidden=false;$("intent").textContent=data.intent_name;const priority=$("priority");priority.textContent=data.urgency==="high"?"High priority":"Standard priority";priority.className=`priority ${data.urgency}`;$("confidence").textContent=`${(data.confidence*100).toFixed(1)}%`;$("summary").textContent=data.agent_summary;$("next-step").textContent=data.recommended_next_step;$("orders").textContent=data.order_ids.length?data.order_ids.join(", "):"No order reference found.";$("redacted").textContent=data.redacted_message;showGuidance(data.knowledge_matches)}
+    document.querySelectorAll(".example").forEach(button=>button.addEventListener("click",()=>$("message").value=button.dataset.message));
+    $("ticket-form").addEventListener("submit",async event=>{event.preventDefault();const button=$("submit"),error=$("error");error.textContent="";button.disabled=true;button.textContent="Reviewing...";try{const response=await fetch("/v1/tickets/analyze",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({message:$("message").value})}),data=await response.json();if(!response.ok)throw new Error(data.detail||"Ticket review failed.");showResult(data)}catch(problem){error.textContent=problem.message}finally{button.disabled=false;button.textContent="Review ticket"}});
+  </script>
+</body></html>

@@ -1,13 +1,9 @@
 from pathlib import Path
 
-import joblib
 import pandas as pd
 import pytest
 
-from supportflow.knowledge import KnowledgeBase
-from supportflow.privacy import extract_order_ids, redact
-from supportflow.service import analyse
-from supportflow.train import train
+from api.index import KnowledgeBase, analyse, extract_order_ids, load_model, redact, train
 
 
 def test_redaction_and_order_extraction():
@@ -20,7 +16,7 @@ def test_redaction_and_order_extraction():
 def test_analysis_returns_matching_guidance(tmp_path):
     model_path = tmp_path / "supportflow_model.joblib"
     train(Path("data/support_tickets.csv"), model_path)
-    model = joblib.load(model_path)
+    model = load_model(model_path)
     kb = KnowledgeBase.load(Path("data/knowledge_base.json"))
     output = analyse(model, kb, "My new headphones arrived broken and I need a replacement.")
     assert output["intent"] == "damaged_item"
